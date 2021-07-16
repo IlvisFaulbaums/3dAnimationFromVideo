@@ -1,4 +1,4 @@
-# 3dVisualisationFromVideo
+# 3d Visualisation From Video
 This repository allows to use video or webcam to see it in realtime.
 Use this only for visualisation and for non-commercial purposes!
 
